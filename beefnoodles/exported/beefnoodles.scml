@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="beefnoodles">
+        <file id="0" name="beefnoodles/beefnoodles1.png" width="180" height="180" pivot_x="0.491278" pivot_y="0.319614"/>
+    </folder>
+    <entity id="0" name="cook_pot_food">
+        <animation id="0" name="aaaa" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="beefnoodles1" folder="0" file="0" abs_x="0.680159" abs_y="-7.544118" abs_pivot_x="0.491278" abs_pivot_y="0.319614" abs_angle="360" abs_scale_x="1.034018" abs_scale_y="0.964613" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="beefnoodles1">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="0.680159" y="-7.544118" scale_x="1.034018" scale_y="0.964613"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>
